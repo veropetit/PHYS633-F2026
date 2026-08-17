@@ -6,7 +6,7 @@ Instructor: Dr. Véronique Petit
 Office: 202 Sharp Lab
 Email: VPetit@udel.edu
 
-* Times/Location: Tuesday/Thursday 14:20-15:40 (80 minutes) in ISE 315 (DSpOC)
+* Times/Location: Tuesday/Thursday 12:45-14:05 (80 minutes) in ISEL 315 (DSpOC)
 * Zoom link: see on canvas. 
 
 Office hours: TBD during together first lecture, by appointment, or just stop by my office!
