@@ -28,7 +28,7 @@ Also, if you google things like "how to I change the color of the curve in matpl
 
 I do not take **attendance** in class. If you miss a class, it will be your responsability to catch up with the material covered (especially the part of the notebook that was done together in class). 
 
-**Absences on religious holidays** listed in university calendars are recognized as an excused absence. Nevertheless, you are urged to remind me of your intention to be absent on a particular upcoming holiday. Absences on religious holidays not listed in university calendars, as well as absences due to athletic participation or other extracurricular activities in which you are an official representative of the university, shall be recognized as excused absences when you inform me in writing during the first two weeks of the semester of these planned absences for the semester (as per UD's policy).
+**Absences on religious holidays** listed in university calendars are recognized as an excused absence. Nevertheless, you are urged to remind me of your intention to be absent on a particular upcoming holiday. Absences on religious holidays not listed in university calendars, as well as absences due to athletic participation or other extracurricular activities in which you are an official representative of the university, shall be recognized as excused absences when you inform me in writing during the first two weeks of the semester of these planned absences for the semester. (as per UD's policy).
 
 
 

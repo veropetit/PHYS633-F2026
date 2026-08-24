@@ -5,21 +5,26 @@ In this course, we will be covering elements of stellar interior structure, stel
  
 ## Recap of intro physics and intro astronomy if needed
 
-* "OpenStack Astronomy: The equivalent of PHYS 133 or PHYS 144, also good for some of the basic physics relevant to astronomy: [https://openstax.org/details/books/astronomy](https://openstax.org/details/books/astronomy)
+* "OpenStack Astronomy: The equivalent of PHYS 133 or PHYS 144, also good for some of the basic physics relevant to astronomy: [https://openstax.org/books/astronomy-2e/pages/1-introduction](https://openstax.org/books/astronomy-2e/pages/1-introduction)
 
-## Best Overview textbook:
+## Best Overview textbook [Highly Recommended]:
 
 * "The Leblanc": An introduction to Stellar Astrophysics, Francis Leblanc
 
-	This is the textbook I use in the undergrad courses. It has a nice overview of all the material, sometime with relatively good depth for a graduate course. It is quite inexpensive, and an ebook is available. But it will need to be often complemented with other more advanced book. 
+	This is the textbook I use in senior-level undergrad courses. It has a nice overview of all the material, sometime with relatively good depth for a graduate course. It is quite inexpensive, and an ebook is available. But it will need to be often complemented with other more advanced book. 
+
+	> You can purchase this book through the bookstore
+
+
 
  
+## Additional resources:
 
 All the textbooks below are more advanced texts. They are all on reserve at the Physics Library, and some of the e-text are available as PDF download from the Library,
 
  
 
-## Interior and evolution:
+### Interior and evolution:
 
 * "Prof. MacDonald's book": Structure and Evolution of Single Stars: An introduction, James MacDonald 
 
@@ -28,14 +33,15 @@ All the textbooks below are more advanced texts. They are all on reserve at the 
 * "The Kip": Stellar Structure and Evolution, Kippenhahn & Weigert (& Weiss for the 2nd edition) 
 
 	This book and the next are the bibles of interior structure. The Kip is more analytical.
-There is a copy on reserve at the Physics Library, and it is available as a PDF from the Library website: https://delcat.worldcat.org/title/stellar-structure-and-evolution/oclc/817913300&referer=brief_results 
+There is a copy on reserve at the Physics Library, and it is available as a PDF from the Library website: https://delcat.alma.exlibrisgroup.com/permalink/01UDEL_INST/1d072r/alma991020650893707701
 
 * "The Hansen": Stellar Interior: Physical Principals, Structure, and Evolution 2nd edition, Hanson, Kawaler, Trimble
 
 	The Hanson is equally good, perhaps a bit more verbose and contain more details on numerical methods. 
-There is a copy on reserve at the Physics Library, and you can read the whole book online, and download some part as PDFs: https://delcat.worldcat.org/title/stellar-interiors-physical-principles-structure-and-evolution/oclc/858876539&referer=brief_results 
+There is a copy on reserve at the Physics Library, and you can read the whole book online, and download some part as PDFs: https://ebookcentral.proquest.com/lib/udel-ebooks/reader.action?docID=3074257&c=UERG&ppg=1
+(https://delcat.primo.exlibrisgroup.com/permalink/01UDEL_INST/1cn02dm/alma991020669617707701)
 
-## Atmospheres:
+### Atmospheres:
 
 * "The Gray": The Observation and Analysis of Stellar Photospheres, Gray
 

@@ -20,7 +20,7 @@ We made order of magnitude estimates of various timescales.
 
 * KH timescale
 * Nuclear timescale
-* Dynamical timescale (We'll finish this on Thursday!)
+* Dynamical timescale
 
 Micro-objectives:
 - I can calculate the sun’s lifetime based on the chemical yield of a combustion reaction
@@ -30,7 +30,7 @@ Micro-objectives:
 - I can explain the consequence of the large difference between the hydro and nuclear timescale (and the resulting approximation we can make about the equations that describe stellar structure).
 
 
-> In the [textbooks](../textbooks.md):
+> In the [textbooks](../CourseInformation/textbooks.md):
 > 
 > * Leblanc 2.5, 6.1, 6.5
 > * McD 2.4, 3.3

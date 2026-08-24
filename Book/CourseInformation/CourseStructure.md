@@ -6,7 +6,7 @@ It is my strategy to assign short, but very frequent exercises for you to work o
 
 **During most lectures**, we will work on a Python Notebook together to perform some simple calculations, solve a problem, and/or produce graphs to explore a concept. 
 
-I will also make presentations (still more often than I'd like -- suggestiong on how to make these more interactive are very welcomed!) on the board and on slides (which are available in advance in the content section of the course website). 
+I will also make presentations (still more often than I'd like -- suggestions on how to make these more interactive are very welcomed!) on the board and on slides (which are available in advance in the content section of the course website). 
 
 **Outside of class**, you will have to complete the notebook, which includes doing additional work in them (labelled "at home"). 
 
@@ -16,13 +16,13 @@ Your collection of notebooks will become your course "portfolio".
 
 ### Portfolio of notebooks
 
-Each notebook will be evaluated with a "Satisfactory/Not yet" mark, according to a set of pre-defined criteria (see [](RubricNotebook.md)). 
+Each notebook will be evaluated with a "Satisfactory/Not yet" mark, according to a set of pre-defined criteria (see [](NotebookRubric.md)). 
 
-For the first X weeks of the semester, each notebook will be evaluated in a 2-step process. You have ~1 week to complete each notebook. I will then take a day to assess them according to the rubric and provide feedback. You will then have about a week to submit a revision. 
+For the first **X** weeks of the semester, each notebook will be evaluated in a 2-step process. You have ~1 week to complete each notebook. I will then take a day to assess them according to the rubric and provide feedback. You will then have about a week to submit a revision. 
 
-For the reminder of the semester, I will allow X revisions per students. 
+For the reminder of the semester, I will allow **X** revisions per students. 
 
-The notebook will be submitted through Gradescope -- see the submission instructions [](NotebookSubmission.md). 
+The notebook will be submitted through Gradescope -- see the submission instructions [](NotebookSubmission.ipynb). 
 
 
 ### Oral mid-term and final
@@ -33,7 +33,7 @@ The mid-term and final will be evaluted with a "Excellent/GoodEffort/NeedsWork" 
 
 ### What if I need an extension?
 
-I will allow a few deadline extension per student. They are automatic, but you need to fill in this form before the due date: https://forms.gle/q9CJjZonPPUcmSYh6
+I will allow a few deadline extension per student. They are automatic, but you need to fill in this form before the due date: https://forms.gle/ovowriBKi2SJHUBq8
 
 ## How will your final grade be determined?
 
@@ -44,10 +44,10 @@ Your final grade will be determined according to this table:
 | Grade    | Portfolio | Final Oral |
 | -------- | ------------------------- | ---------- |
 | A        | 13 Satisfactory notebooks | Excellent  |
-| B        | 10 Satisfactory notebooks | Excellent  |
-| C        |  7 Satisfactory notebooks | GoodEffort |
-| D        | <7 Satisfactory notebooks | GoodEffort |
-| F        | <7 Satisfactory notebooks | NeedsWork  |
+| B        | 11 Satisfactory notebooks | Excellent  |
+| C        |  8 Satisfactory notebooks | GoodEffort |
+| D        | <8 Satisfactory notebooks | GoodEffort |
+| F        | <8 Satisfactory notebooks | NeedsWork  |
 
 To earn a given letter grade, both columns must be satisfied. 
 

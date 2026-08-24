@@ -2,7 +2,7 @@
 
 In a lot of the physics courses that you have encountered so far, the goal was to teach specific physics concepts (like mechanics, energy, quantum, etc) that are applicable to a myriad of situations. 
 
-In this course, we are kinda doing the opposite! We have one 'situation': What is a star? And we will pull physics concepts from a myriad of physics fundamental areas (energy, quantum, etc!) to explain this one thing. 
+In this course, we are kinda doing the opposite! We have one 'situation': *What is a star?* And we will pull physics concepts from a myriad of physics fundamental areas (energy, quantum, etc!) to explain this one thing. 
 
 ## The scientific leaning goals
 
