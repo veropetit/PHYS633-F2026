@@ -13,9 +13,9 @@ The derivation of the hydrostatic equilibrium equation (through jellyfish physic
 We still don't have enough equations to solve for the structure of a star (we need to know $M_r(r)$, $\rho(r)$, and $P(r)$, but we only have two equations).
 
 Micro-objectives:
-- With words and sketches, I can describe the balances of forces that keeps a small piece in the interior of a star in hydrostatic equilibrium.
-- I can transform this balance of forces in terms of density, pressure, and gravitational acceleration to find the differential equation for hydrostatic equilibrium. 
-- I can demonstrate (with text and math) that the equations of continuity and hydrostatic equilibrium alone are not enough to solve for the structure of a star. 
+- 3.1: With words and sketches, I can describe the balances of forces that keeps a small piece in the interior of a star in hydrostatic equilibrium.
+- 3.2: I can transform this balance of forces in terms of density, pressure, and gravitational acceleration to find the differential equation for hydrostatic equilibrium. 
+- 3.3: I can demonstrate (with text and math) that the equations of continuity and hydrostatic equilibrium alone are not enough to solve for the structure of a star. 
 
 > In the [textbooks](../textbooks.md):
 > 
@@ -38,13 +38,13 @@ condition instead of the surface pressure in the example 5.1 if you are curious.
 This means that on the left side of the integral form of the equation, you will get $P(r)-P_o$. 
 
 Micro-objective:
-- I can write the integral form of the hydrostatic equilibrium equation for $P(r)$
-- With sketch and words, I can explain the boundary conditions for the integral form of the hydrostatic equation.
-- I can integrate the hydrostatic equilibrium equation to find $P(r)/P_c$ as a function of $r$ if given a functional form for $\rho(r)$.
-- I can compute the central pressure for a given $M_\star$ and $R_\star$ if given a functional form for $\rho(r)$.
-- I can evaluate the quality of our approximation for our guessed functional form for $\rho(r)$ (i.e. constant or radially decreasing density). I can formulate an hypothesis on how we could change our functional form to be closer to reality. 
+- 3.4: I can write the integral form of the hydrostatic equilibrium equation for $P(r)$
+- 3.5: With sketch and words, I can explain the boundary conditions for the integral form of the hydrostatic equation.
+- 3.6: I can integrate the hydrostatic equilibrium equation to find $P(r)/P_c$ as a function of $r$ if given a functional form for $\rho(r)$.
+- 3.7: I can compute the central pressure for a given $M_\star$ and $R_\star$ if given a functional form for $\rho(r)$.
+- 3.8: I can evaluate the quality of our approximation for our guessed functional form for $\rho(r)$ (i.e. constant or radially decreasing density). I can formulate an hypothesis on how we could change our functional form to be closer to reality. 
 
-> In the [textbooks](../textbooks.md):
+> In the [textbooks](../CourseInformation/textbooks.md):
 > 
 > * same as above
  
