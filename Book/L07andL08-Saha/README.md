@@ -34,10 +34,10 @@ We did this by building a formula (using the easier case of hydrogen as an examp
 3. We can combine all the equations found in 1 and 2 to get a single relation between $n^r$ and $n^{r+1}$, called the Saha equation. In our analogy using He0 and He+ as an example, Part 1 gave us an equation that gives us the total number of buildings of type He0 if we know the number of buildings of type He0 for which the electron tenants live in the basement, and a similar equation for the buildings of type He+. We replaced in the equation in part 2, et voila!
 
 Micro-objectives:
-* I can explain the notation we use for representing the ionization and excitation state of an atom
-* I can relate the ionization fraction ($y_i$) of one element with the concentration fractions.
-* I can explain why the StatMech expression for the ionization reaction contains the multiplicity of the free electron.
-* In the expression for $\frac{n_{r+1}}{n_r}P_e$, I can explain the meaning of all the terms (and where they came from in the derivation). 
+* 7.1: I can explain the notation we use for representing the ionization and excitation state of an atom
+* 7.2: I can relate the ionization fraction ($y_i$) of one element with the concentration fractions.
+* 7.3: I can explain why the StatMech expression for the ionization reaction contains the multiplicity of the free electron.
+* 7.4: In the expression for $\frac{n_{r+1}}{n_r}P_e$, I can explain the meaning of all the terms (and where they came from in the derivation). 
 
 > In the [textbooks](../CourseInformation/textbooks.md):
 > 
@@ -55,7 +55,7 @@ With a bit of math, we can setup 3 sets of equations with three sets of unknowns
 For the case of hydrogen, we analytically solved this set of equation. We will see during next lecture what do to if we have multiple ionization stages, and multiple elements.
 
 Micro-objectives:
-* I can explain the various conditions that will favor/disfavor high ionization
+* 7.5: I can explain the various conditions that will favor/disfavor high ionization
 
 > In the [textbooks](../CourseInformation/textbooks.md):
 > 
@@ -66,7 +66,7 @@ Micro-objectives:
 We will discuss briefly an issue with the partition function, which goes to infinity is we consider an infinite number of energy level. We fix this problem by invoking a maximum bound energy level, that will depend on the pressure. The physical basis of this "fix" is that for a non-isolated atom, the energy levels with very large energy will be perturbed by the presence of nearby charges (resulting in "pressure ionization" in the most extreme cases).
 
 Micro-objectives:
-* I can explain why we need to truncate the partition functions (conceptually, and numerically)
+* 7.6: I can explain why we need to truncate the partition functions (conceptually, and numerically)
 
 > In the [textbooks](../CourseInformation/textbooks.md):
 > 
@@ -81,8 +81,8 @@ We found out that if one knew $E = n_e/n_\mathrm{ion}$, the set of equation "1" 
 
 Micro-objectives:
 
-* I can explain the meaning of $E$ and its minimum and maximum expected value for hydrogen only and for a mixture of hydrogen and helium. 
-* I can apply the iterative method to solve for the ionization fractions in a mixture of hydrogen and helium.
+* 7.7: I can explain the meaning of $E$ and its minimum and maximum expected value for hydrogen only and for a mixture of hydrogen and helium. 
+* 7.8: I can apply the iterative method to solve for the ionization fractions in a mixture of hydrogen and helium.
 
 > In the [textbooks](../CourseInformation/textbooks.md):
 > 
