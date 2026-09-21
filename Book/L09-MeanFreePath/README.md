@@ -10,12 +10,12 @@ Week 5, Tuesday (no notebook for today)
 - We calculated the spatial location of this transition for the Sun with the pressure scale height. It is only a slim fraction of the stellar radius. 
 
 Micro-objective:
-* I can explain the concept of “mean free path”
-* I can explain the concept of Local Thermodynamic Equilibrium for particles. (i.e. comparing the temperature gradient with the mean free path)
-* I can use the concept of mean free path to explain the separation between the “interior” and the “atmosphere” of a star. 
-* I can state the conceptual and mathematical definition of the “pressure scale height” 
-* I can derive an equation for and compute an estimate of the pressure scale height of the sun
-* I can list the approximations that we will be able/not able to do when considering the atmosphere and the interior of stars.
+* 9.1: I can explain the concept of “mean free path”
+* 9.2: I can explain the concept of Local Thermodynamic Equilibrium for particles. (i.e. comparing the temperature gradient with the mean free path)
+* 9.3: I can use the concept of mean free path to explain the separation between the “interior” and the “atmosphere” of a star. 
+* 9.4: I can state the conceptual and mathematical definition of the “pressure scale height” 
+* 9.5: I can derive an equation for and compute an estimate of the pressure scale height of the sun
+* 9.6: I can list the approximations that we will be able/not able to do when considering the atmosphere and the interior of stars.
 
 > In the [textbooks](../CourseInformation/textbooks.md):
 > 
@@ -28,10 +28,10 @@ Micro-objective:
 - The goal of radiative transfer is to figure out what happens to the specific intensity as a ray of light goes through matter. 
 
 Micro-objectives
-* I can state the conceptual definition and characteristics of a ray of light (i.e. specific intensity)
-* I can mathematically state and sketch the physical definition of specific intensity
-* I can mathematically relate the “mean specific intensity” to the specific intensity
-* I can mathematically state and sketch the physical definition of specific flux
+* 9.7: I can state the conceptual definition and characteristics of a ray of light (i.e. specific intensity)
+* 9.8: I can mathematically state and sketch the physical definition of specific intensity
+* 9.9: I can mathematically relate the “mean specific intensity” to the specific intensity
+* 9.10: I can mathematically state and sketch the physical definition of specific flux
 
 > In the [textbooks](../CourseInformation/textbooks.md):
 > 
