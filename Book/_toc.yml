@@ -43,10 +43,10 @@ parts:
     - file: L09-MeanFreePath/README.md
       sections:
       - file: L09-MeanFreePath/Slides.md    
-#    - file: L10-Absorption/README.md
-#      sections:
-#      - file: L10-Absorption/10-Absorption-template.ipynb
-#      - file: L10-Absorption/Slides.md
+    - file: L10-Absorption/README.md
+      sections:
+      - file: L10-Absorption/10-Absorption-template.ipynb
+      - file: L10-Absorption/Slides.md
 #    - file: L11-SourceFunction/README.md
 #      sections:
 #      - file: L11-SourceFunction/11-SourceFunction-template.ipynb
