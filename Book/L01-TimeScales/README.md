@@ -23,11 +23,11 @@ We made order of magnitude estimates of various timescales.
 * Dynamical timescale
 
 Micro-objectives:
-- I can calculate the sun’s lifetime based on the chemical yield of a combustion reaction
-- I can calculate the sun’s lifetime based on the gravitational contraction
-- I can explain the yield from nuclear reactions and can calculate the sun’s lifetime based on the H-burning nuclear yield.
-- I can explain the approximation we use the estimate the hydrostatic timescale and I can calculate the sun’s hydrostatic’s timescale.
-- I can explain the consequence of the large difference between the hydro and nuclear timescale (and the resulting approximation we can make about the equations that describe stellar structure).
+- 1.1: I can calculate the sun’s lifetime based on the chemical yield of a combustion reaction
+- 1.2: I can calculate the sun’s lifetime based on the gravitational contraction
+- 1.3: I can explain the yield from nuclear reactions and can calculate the sun’s lifetime based on the H-burning nuclear yield.
+- 1.4: I can explain the approximation we use the estimate the hydrostatic timescale and I can calculate the sun’s hydrostatic’s timescale.
+- 1.5: I can explain the consequence of the large difference between the hydro and nuclear timescale (and the resulting approximation we can make about the equations that describe stellar structure).
 
 
 > In the [textbooks](../CourseInformation/textbooks.md):
