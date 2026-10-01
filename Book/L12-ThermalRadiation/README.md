@@ -12,7 +12,11 @@ Properties of "blackbodies" objects. From the energy distribution of photon insi
 * that the flux inside of the cavity is zero
 * that the flux at the surface of a BB (light going through the "hole") is $\sigma T^4$.
 
-
+*** Micro-objectives ***
+- 12.1: In words and sketches, I can explain the concept of a thermal cavity and its relation to thermal radiation. 
+- 12.2: I can explain how we get from the energy density per unit of photon energy to the intensity of the rays inside of the cavity (per unit of frequency)
+- 12.3: I can convert the thermal intensity per unit of frequency to the thermal intensity per unit of wavelength. 
+- 12.4: I can show that the flux at the surface of a thermal object is $\sigma T^4$.
 
 > In the [textbooks](../textbooks.md):
 > 
@@ -25,6 +29,9 @@ Properties of "blackbodies" objects. From the energy distribution of photon insi
 * In the case of a pure thermal radiation at a single temperature, there is no change in intensity such that $S_\lambda = I_\lambda$.
 * But in the case of LTE, the temperature gradient means that the intensity $I_\lambda$ is not always $B_\lambda$, if the source function changes within a few optical depths. However, locally the source function can be approximated by $S_\lambda \simeq I_\lambda$ if scattering processes are much less important than pure absorption processes. 
 
+*** Micro-objectives ***
+- 12.5 I can relate the source function to the thermal intensity. 
+
 
 > In the [textbooks](../textbooks.md):
 > 
@@ -33,3 +40,7 @@ Properties of "blackbodies" objects. From the energy distribution of photon insi
 ---
 
 We explored the frequency dependence of the opacity and its effect on the frequency dependence of the intensity exiting a slab of material with $S_\lambda=B_\lambda(T)$. We can link these with the type of spectra described by the Kirchhoff's law of spectroscopy. [https://en.wikipedia.org/wiki/Gustav_Kirchhoff#Kirchhoff.27s_three_laws_of_spectroscopy](https://en.wikipedia.org/wiki/Gustav_Kirchhoff#Kirchhoff.27s_three_laws_of_spectroscopy )
+
+*** Micro-objectives ***
+- 12.6 I can explain the shape of the opacity as a function of wavelength/frequency.
+- 12.7 I can write down the expression for the intensity at the end of a slab of material in which the source function is constant and equal to the thermal intensity, and explain what we would see when observing the end of the slab for various scenario (when the initial intensity is zero or thermal intensity, and when the optical depth of the slab is large or small). I can relate this to the various type of astrophysical spectra.  
