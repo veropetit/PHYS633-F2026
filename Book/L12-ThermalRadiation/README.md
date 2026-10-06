@@ -43,4 +43,5 @@ We explored the frequency dependence of the opacity and its effect on the freque
 
 *** Micro-objectives ***
 - 12.6 I can explain the shape of the opacity as a function of wavelength/frequency.
-- 12.7 I can write down the expression for the intensity at the end of a slab of material in which the source function is constant and equal to the thermal intensity, and explain what we would see when observing the end of the slab for various scenario (when the initial intensity is zero or thermal intensity, and when the optical depth of the slab is large or small). I can relate this to the various type of astrophysical spectra.  
+- 12.7 I can write down the expression for the intensity at the end of a slab of material in which the source function is constant and equal to the thermal intensity, and explain what we would see when observing the end of the slab for various scenario (when the initial intensity is zero or thermal intensity, and when the optical depth of the slab is large or small). I can relate this to the various type of astrophysical spectra. 
+ 

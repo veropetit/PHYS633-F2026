@@ -55,9 +55,9 @@ parts:
     - file: L12-ThermalRadiation/README.md
       sections:
       - file: L12-ThermalRadiation/Slides.md
-#    - file: L13-FlatAtmospheres/README.md
-#      sections:
-#      - file: L13-FlatAtmospheres/Slides.md
+    - file: L13-FlatAtmospheres/README.md
+      sections:
+      - file: L13-FlatAtmospheres/Slides.md
 #    - file: L14-LimbDarkening/README.md
 #      sections:
 #      - file: L14-LimbDarkening/14-LimbDarkening-template.ipynb
