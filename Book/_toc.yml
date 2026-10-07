@@ -58,10 +58,10 @@ parts:
     - file: L13-FlatAtmospheres/README.md
       sections:
       - file: L13-FlatAtmospheres/Slides.md
-#    - file: L14-LimbDarkening/README.md
-#      sections:
-#      - file: L14-LimbDarkening/14-LimbDarkening-template.ipynb
-#      - file: L14-LimbDarkening/Slides.md
+    - file: L14-LimbDarkening/README.md
+      sections:
+      - file: L14-LimbDarkening/14-LimbDarkening-template.ipynb
+      - file: L14-LimbDarkening/Slides.md
 #    - file: L15-FluxInFlatAtm/README.md
 #      sections:
 #      - file: L15-FluxInFlatAtm/Slides.md

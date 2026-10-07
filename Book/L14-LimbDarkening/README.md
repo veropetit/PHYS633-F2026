@@ -18,10 +18,10 @@ We worked on a notebook that made a visualization of the stellar disk (as would 
 
 Micro-Objectives:
 
-* I can derive the expression for the emerging intensity as a function of $u$, if the source function is a linear function of $\tau$. 
-* [N] I can sketch and explain the impact of limb-darkening on our view of the visible hemisphere of the sun. 
-* [N] I can explain the effect of the slope of the source function on the limb-darkening. 
-* [N] I can explain how the transit of a planet in front of a star modifies the total light coming from a star
-* [N] I can explain how the shape of a planet transit will be impacted by a diffence in limb-darkening. 
+* 14.1: I can derive the expression for the emerging intensity as a function of $u$, if the source function is a linear function of $\tau$. 
+* 14.2: I can sketch and explain the impact of limb-darkening on our view of the visible hemisphere of the sun. 
+* 14.3: I can explain the effect of the slope of the source function on the limb-darkening. 
+* 14.4: I can explain how the transit of a planet in front of a star modifies the total light coming from a star
+* 14.5: I can explain how the shape of a planet transit will be impacted by a diffence in limb-darkening. 
 
 ---
