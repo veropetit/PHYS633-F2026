@@ -62,9 +62,9 @@ parts:
       sections:
       - file: L14-LimbDarkening/14-LimbDarkening-template.ipynb
       - file: L14-LimbDarkening/Slides.md
-#    - file: L15-FluxInFlatAtm/README.md
-#      sections:
-#      - file: L15-FluxInFlatAtm/Slides.md
+    - file: L15-FluxInFlatAtm/README.md
+      sections:
+      - file: L15-FluxInFlatAtm/Slides.md
 #    - file: L16-AnalyticalEstimate/README.md
 #      sections:
 #      - file: L16-AnalyticalEstimate/Slides.md
