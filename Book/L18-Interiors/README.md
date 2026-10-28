@@ -10,7 +10,7 @@ Week 10, Thursday
 
 We started by recasting the radiative energy transport in terms of radius instead of optical depth, in the large optical depth regime.
 
-> In the [textbooks](../textbooks.md):
+> In the [textbooks](../CourseInformation/textbooks.md):
 > 
 >* Leblanc 5.2.3
 >* Kip 5.1
@@ -32,3 +32,14 @@ Now we have a system of equation we can solve. In the next few lectures, we will
 * Is the energy always transported by radiation?
 * How can we find the energy production rates for nuclear fusion?
 * Is the ideal gas law always valid in the interior of stars?
+
+--- 
+
+***Micro-objectives***
+- 18.1: With words and sketches, I can explain how we can go back to spherical coordinates for the flux, why it is not constant with depth anymore, and how the flux is related to the enclosed luminosity. 
+- 18.2: I can make a sketch of the enclosed luminosity $L_r(r)$ as a function of radial coordinate, and explain the various zones. 
+- 18.3: With word and math, I can explain the relation between $L_r(r)$ and the nuclear energy per unit of mass ($\epsilon$). 
+- 18.4: I can transform the approximate equation for $F_\lambda(\tau_\lambda)$ valid for large optical depths into the form that has the temperature radial gradient in it. 
+- 18.5: With words and sketches, I can explain the Rossaland mean opacity, and how it simplify the equation above. 
+- 18.6: From there, I can derive the final equation for the energy transport. 
+- 18.7: I can state the set of equations for the structure of the interior layers of a star, and explain why it is now a solvable system of equations. 
