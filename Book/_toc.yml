@@ -79,10 +79,10 @@ parts:
       sections:
       - file: L19-Convection/19-Convection-template.ipynb
       - file: L19-Convection/Slides.md
-#    - file: L21and22-NuclearEnergy/README.md
-#      sections:
+    - file: L21and22-NuclearEnergy/README.md
+      sections:
 #      - file: L21and22-NuclearEnergy/22-NuclearEnergy-template.ipynb
-#      - file: L21and22-NuclearEnergy/Slides.md
+      - file: L21and22-NuclearEnergy/Slides.md
 #    - file: L23-Degeneracy/README.md
 #      sections:
 #      - file: L23-Degeneracy/23-Degeneracy-template.ipynb

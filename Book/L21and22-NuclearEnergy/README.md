@@ -16,6 +16,17 @@ Once we get this energy released per reaction, we can find our power generated p
 We will compare the reaction rates from the pp-chain and the cno-cycle, in the interior of a 1 Msun star and a 10 Msun star.
 
 
+*** Micro-objectives ***
+- 21.1: I can explain the concept of binding energy and state the equation for $Q$. 
+- 21.2: I can make a sketch of the binding energy per nucleon ($Q/A$) as a function of the atomic number ($Z$). 
+- 22.3: With words and math, I can explain how this graph allows us to compute the energy per unit of mass for a reaction. 
+- 22.4: I can explain why the inflextion point in the graph is significant, using Ba as an example. 
+- 22.5: I can make a quick calculation to get an estimation of the reaction rate for hydrogen nuclear burning in the sun. 
+- 22.6: I can explain how we can obtain $$\epsilon$$ from $Q$. 
+- 22.7: With sketches and words, I can explain the kinetic energy condition for proton-proton fusion to occur. 
+- 22.8: With sketches and words, I can explain why classical physics seems to not allow for proton-proton fusion in the sun
+- 22:9: With words and sketches (and with the final equation in the slide as a reference), I can explain the concept of the Gammov Peak. 
+- More for L22 to come. 
 
 
 > In the [textbooks](../textbooks.md):
